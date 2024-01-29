@@ -1,0 +1,17 @@
+2023-07-28T09:26:18.586191300 Machine has been turned on
+2023-07-28T09:26:18.643398 We're done for today
+2023-07-28T09:26:47.463005900 Machine has been turned on
+2023-07-28T09:26:47.519371800 We're done for today
+2023-12-04 Order Complete
+2023-12-04 Order CompleteSinglemint Gum 2.35
+2023-12-04 Order CompleteChiclets 1.35
+2023-12-04 Order Complete 2.35 7.65
+2023-12-04 Preengles D2 7.65
+2023-12-04 Chiclets D4 9.65
+2023-12-04 Chiclets D4 8.65
+2023-12-04 Chiclets D4 8.3
+2023-12-04 Teaberry D1 6.65
+2023-12-04 Popcorn C4 5.9
+2023-12-08 U-Chews A1 8.35
+2023-12-08 Ginger Ayle A2 7.5
+2024-01-20T16:34:26.670965300 Wonka Bar B4 0.6499999999999999
